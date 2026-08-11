@@ -1,0 +1,18 @@
+body{
+background-color: rgb(235, 35, 35);
+}
+div{
+    background-color: blue;
+    border-radius: 25px;
+    padding: 5px 5px; margin-bottom: 15px;
+    width: 50%; height: 20vh;
+    box-shadow: 5px 4px 10px rgba(0,0,0,0.2);
+    font-family: 'Open Sans', sans-serif;
+
+#meuBotao{
+background-color: rgba(189, 243, 14, 0.8);
+
+}
+h1{
+color-text: #e44444;
+}}
